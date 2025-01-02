@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .count {
+        @apply text-[#B0D9FF] sm:font-bold font-semibold sm:text-[80px] text-[64px] px-5 ;
+    }
+
+    .count-text{
+        @apply text-[#FFFFFF] font-semibold sm:text-[18px] text-[16px] px-5;
+    }
+}
