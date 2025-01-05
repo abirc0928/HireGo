@@ -10,4 +10,5 @@
     .count-text{
         @apply text-[#FFFFFF] font-semibold sm:text-[18px] text-[16px] px-5;
     }
+    
 }
