@@ -10,5 +10,14 @@
     .count-text{
         @apply text-[#FFFFFF] font-semibold sm:text-[18px] text-[16px] px-5;
     }
-    
+    .footer-text{
+        @apply text-[#FFFFFF66] font-[400] sm:text-[14px] pb-[16px];
+    }
+    .footer-copyright{
+        @apply text-[#FFFFFF66] font-[400] sm:text-[12px] pb-[16px];
+    }
 }
+
+/* Image [css-ducv57] */
+
+
