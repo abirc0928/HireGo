@@ -5,9 +5,9 @@
 ## Live Demo
 
 Explore the live version of this project by clicking the link below:
-```bash
+
 🔗 [Live Demo](https://cheerful-donut-d09c5f.netlify.app/)
-  ```
+
 ## Technologies Used
 
 - Html
