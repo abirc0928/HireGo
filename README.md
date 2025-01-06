@@ -4,8 +4,10 @@
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://cheerful-donut-d09c5f.netlify.app/).
-
+Explore the live version of this project by clicking the link below:
+```bash
+🔗 [Live Demo](https://cheerful-donut-d09c5f.netlify.app/)
+  ```
 ## Technologies Used
 
 - Html
