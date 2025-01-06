@@ -2,6 +2,11 @@
 
 **HireGo** is a static website built with **Tailwind CSS** and **JavaScript**, designed to streamline global hiring, contractor management, payroll, and performance tracking.
 
+## Live Demo
+
+Explore the live version of this project by clicking the link below:
+
+🔗 [Live Demo](https://cheerful-donut-d09c5f.netlify.app/)
 
 ## Technologies Used
 
