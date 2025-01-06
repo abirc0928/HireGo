@@ -18,4 +18,7 @@
 2. Open `src/index.html` in your browser.
 
 
-
+## Live link
+```bash
+  [ git clone https://github.com/abirc0928/HireGo.git](https://cheerful-donut-d09c5f.netlify.app/)
+   ```
