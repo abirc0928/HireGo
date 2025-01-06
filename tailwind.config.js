@@ -5,7 +5,11 @@ module.exports = {
     extend: {
       fontFamily: {
         sans: ["IBM Plex Sans Hebrew", "sans-serif"],
+       
       },
+      fontFamily:{
+        inter: ["Inter", "sans-serif"],
+      }
     },
   },
   plugins: [],
